@@ -79,3 +79,6 @@ On the data aspect, we created fictional data value based on our research about 
 g.	The hardware and software (Personal Oracle, CCI Oracle, LiveSQL, Mysql, Version number) you used and any special features or considerations 
 
 We used CCI Oracle to implement SQL commands. 
+
+
+
